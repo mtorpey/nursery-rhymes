@@ -6,13 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="light dark">
     <link rel="stylesheet" href="style.css">
+    <script src="html-midi-player.js"></script>
   </head>
   <body>
     <h1>Nursery rhymes</h1>
     <!-- BEGIN:REPEAT -->
     <article id="{{TITLE}}">
       <a href="{{TITLE}}.svg"><img src="{{TITLE}}.svg"/></a>
-      <p><a href="{{TITLE}}.mid">MIDI</a> &emsp; <a href="{{SOURCE}}">Source</a></p>
+      <p><midi-player src="{{TITLE}}.mid" sound-font></midi-player> &emsp; <a href="{{SOURCE}}">Source</a></p>
     </article>
     <!-- END:REPEAT -->
     <footer>

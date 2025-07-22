@@ -19,7 +19,7 @@ a {
 article {
     border: var(--border);
     display: inline-block;
-    margin-inline: 0;
+    margin: 5pt;
     background-color: var(--bg);
     color: var(--fg);
 }
@@ -35,3 +35,57 @@ footer {
     font-style: italic;
 }
 
+/* Custom player style */
+midi-player {
+    color: var(--fg);
+    background-color: var(--bg);
+}
+
+midi-player::part(control-panel) {
+    background:black;
+    color: white;
+    border: none;
+}
+
+midi-player::part(play-button) {
+  color: var(--fg);
+  border: none;
+  background-color: var(--bg);
+}
+
+/*
+midi-player::part(time) {
+  font-family: monospace;
+}
+*/
+
+/* Custom visualizer style */
+#section3 midi-visualizer .piano-roll-visualizer {
+  background: #ffd;
+  border: 2px solid black;
+  border-top: none;
+  border-radius: 0 0 10px 10px;
+  margin: 4px;
+  margin-top: 0;
+  overflow: auto;
+}
+#section3 midi-visualizer svg rect.note {
+  opacity: 0.6;
+  stroke-width: 2;
+}
+#section3 midi-visualizer svg rect.note[data-instrument="0"]{
+  fill: #e22;
+  stroke: #500;
+}
+#section3 midi-visualizer svg rect.note[data-instrument="2"]{
+  fill: #2ee;
+  stroke: #055;
+}
+#section3 midi-visualizer svg rect.note[data-is-drum="true"]{
+  fill: #888;
+  stroke: #888;
+}
+#section3 midi-visualizer svg rect.note.active {
+  opacity: 0.9;
+  stroke: #000;
+}

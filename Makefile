@@ -5,12 +5,15 @@ MIDS := $(patsubst Scores/%.mscx, Output/%.mid, $(SCORES))
 
 all: website $(PDFS)
 
-website: Output/index.html Output/style.css $(SVGS) $(MIDS)
+website: Output/index.html Output/style.css Output/html-midi-player.js $(SVGS) $(MIDS)
 
 Output/index.html: Resources/template.html $(SCORES) | Output/
 	./generate_webpage $< Scores Output $@
 
 Output/style.css: Resources/style.css | Output/
+	cp $< $@
+
+Output/html-midi-player.js: Resources/html-midi-player.js | Output/
 	cp $< $@
 
 Output/%.svg: Scores/%.mscx | Output/
