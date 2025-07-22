@@ -3,7 +3,15 @@ PDFS := $(patsubst Scores/%.mscx, Output/%.pdf, $(SCORES))
 SVGS := $(patsubst Scores/%.mscx, Output/%.svg, $(SCORES))
 MIDS := $(patsubst Scores/%.mscx, Output/%.mid, $(SCORES))
 
-all: $(PDFS) $(SVGS) $(MIDS)
+all: website $(PDFS)
+
+website: Output/index.html Output/style.css $(SVGS) $(MIDS)
+
+Output/index.html: Resources/template.html $(SCORES) | Output/
+	./generate_webpage $< Scores Output $@
+
+Output/style.css: Resources/style.css | Output/
+	cp $< $@
 
 Output/%.svg: Scores/%.mscx | Output/
 	tmpdir=$$(mktemp -d); \

@@ -8,13 +8,13 @@ echo "Generating page from template $template using files in $files, outputting 
 rm -f "$output"
 
 # Extract repeat block from template
-repeat_block=$(awk '/<!-- BEGIN:REPEAT -->/,/<!-- END:REPEAT -->/' template.html)
+repeat_block=$(awk '/<!-- BEGIN:REPEAT -->/,/<!-- END:REPEAT -->/' $1)
 
 # Start writing the final HTML (everything before the repeat block)
-awk '/<!-- BEGIN:REPEAT -->/ {exit} {print}' template.html > "$output"
+awk '/<!-- BEGIN:REPEAT -->/ {exit} {print}' "$template" > "$output"
 
 # Generate and insert one block per file
-for file in $files/*.svg; do
+for file in $scores/*.mscx; do
     fname="${file##*/}"
     title="${fname%.*}"
     echo "$title"
@@ -29,4 +29,4 @@ for file in $files/*.svg; do
 done
 
 # Finish writing the HTML (everything after the repeat block)
-awk '/<!-- END:REPEAT -->/ {found=1; next} found' template.html >> "$output"
+awk '/<!-- END:REPEAT -->/ {found=1; next} found' $1 >> "$output"

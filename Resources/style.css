@@ -2,9 +2,9 @@
     --bg: light-dark(white, black);
     --fg: light-dark(black, white);
     --border: 1pt solid var(--fg);
-    background-color: var(--bg);
-    color: var(--fg);
     font-family: "FreeSerif", times, serif;
+    background-color: light-dark(beige, dimgray);
+    color: var(--fg);
 }
 
 body {
@@ -20,6 +20,8 @@ article {
     border: var(--border);
     display: inline-block;
     margin-inline: 0;
+    background-color: var(--bg);
+    color: var(--fg);
 }
 
 article img {
