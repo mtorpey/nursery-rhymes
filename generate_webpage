@@ -1,0 +1,32 @@
+#!/bin/bash
+
+template=$1
+scores=$2
+files=$3
+output=$4
+echo "Generating page from template $template using files in $files, outputting to $output"
+rm -f "$output"
+
+# Extract repeat block from template
+repeat_block=$(awk '/<!-- BEGIN:REPEAT -->/,/<!-- END:REPEAT -->/' template.html)
+
+# Start writing the final HTML (everything before the repeat block)
+awk '/<!-- BEGIN:REPEAT -->/ {exit} {print}' template.html > "$output"
+
+# Generate and insert one block per file
+for file in $files/*.svg; do
+    fname="${file##*/}"
+    title="${fname%.*}"
+    echo "$title"
+    source=$(grep '<metaTag name="source">' "$scores/$title.mscx" | sed -n 's/.*<metaTag name="source">\([^<]*\)<\/metaTag>.*/\1/p')
+    source=$(echo "$source" | sed 's/ .*//g') # TODO: support multiple sources
+
+    block="$repeat_block"
+    block=${block//\{\{TITLE\}\}/$title}
+    block=${block//\{\{SOURCE\}\}/$source}
+
+    echo "$block" >> "$output"
+done
+
+# Finish writing the HTML (everything after the repeat block)
+awk '/<!-- END:REPEAT -->/ {found=1; next} found' template.html >> "$output"

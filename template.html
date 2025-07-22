@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Nursery rhymes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Nursery rhymes</h1>
+    <!-- BEGIN:REPEAT -->
+    <article id="{{TITLE}}">
+      <img src="{{TITLE}}.svg"/>
+      <p><a href="{{TITLE}}.mid">MIDI</a> &emsp; <a href="{{SOURCE}}">Source</a></p>
+    </article>
+    <!-- END:REPEAT -->
+    <footer>
+      <p>Source code available on <a href="https://github.com/mtorpey/nursery-rhymes">GitHub</a>.
+    </footer>
+  </body>
+</html>

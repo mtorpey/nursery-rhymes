@@ -1,0 +1,35 @@
+:root {
+    --bg: light-dark(white, black);
+    --fg: light-dark(black, white);
+    --border: 1pt solid var(--fg);
+    background-color: var(--bg);
+    color: var(--fg);
+    font-family: "FreeSerif", times, serif;
+}
+
+body {
+    margin: auto;
+    text-align: center;
+}
+
+a {
+    color: var(--fg);
+}
+
+article {
+    border: var(--border);
+    display: inline-block;
+    margin-inline: 0;
+}
+
+article img {
+    max-width: 100%;
+    @media (prefers-color-scheme: dark) {
+        filter: invert(1);
+    }
+}
+
+footer {
+    font-style: italic;
+}
+
