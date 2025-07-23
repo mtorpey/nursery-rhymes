@@ -31,6 +31,10 @@ article img {
     }
 }
 
+article p {
+    margin-top: 0;
+}
+
 footer {
     font-style: italic;
 }
@@ -39,6 +43,11 @@ footer {
 midi-player {
     color: var(--fg);
     background-color: var(--bg);
+    height: 2em;
+    margin-top: 0;
+    font-family: inherit;
+    display: block;
+    width: inherit;
 }
 
 midi-player::part(control-panel) {
@@ -46,15 +55,3 @@ midi-player::part(control-panel) {
     background-color: var(--bg);
     border: none;
 }
-
-midi-player::part(play-button) {
-    color: var(--fg);
-    background-color: var(--bg);
-    border: none;
-}
-
-/*
-midi-player::part(time) {
-  font-family: monospace;
-}
-*/

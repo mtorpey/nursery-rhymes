@@ -1,10 +1,17 @@
 #!/bin/bash
 
+if ! command -v recode &>/dev/null
+then
+    echo "You need to install 'recode', try apt install recode"
+    exit 1
+fi
+
 template=$1
 scores=$2
 files=$3
 output=$4
 echo "Generating page from template $template using files in $files, outputting to $output"
+echo "SCORES ARE $scores"
 rm -f "$output"
 
 # Extract repeat block from template
@@ -14,19 +21,21 @@ repeat_block=$(awk '/<!-- BEGIN:REPEAT -->/,/<!-- END:REPEAT -->/' $1)
 awk '/<!-- BEGIN:REPEAT -->/ {exit} {print}' "$template" > "$output"
 
 # Generate and insert one block per file
-for file in $scores/*.mscx; do
+for file in $scores; do
     fname="${file##*/}"
     title="${fname%.*}"
     echo "$title"
-    source=$(grep '<metaTag name="source">' "$scores/$title.mscx" | sed -n 's/.*<metaTag name="source">\([^<]*\)<\/metaTag>.*/\1/p')
+    source=$(grep '<metaTag name="source">' "$file" | sed -n 's/.*<metaTag name="source">\([^<]*\)<\/metaTag>.*/\1/p')
     source=$(echo "$source" | sed 's/ .*//g') # TODO: support multiple sources
+    echo "$source"
 
     block="$repeat_block"
-    block=${block//\{\{TITLE\}\}/$title}
-    block=${block//\{\{SOURCE\}\}/$source}
+    block=${block//\{\{TITLE\}\}/"$title"}
+    block=${block//\{\{SOURCE\}\}/"$source"}
 
     echo "$block" >> "$output"
 done
 
 # Finish writing the HTML (everything after the repeat block)
 awk '/<!-- END:REPEAT -->/ {found=1; next} found' $1 >> "$output"
+ 

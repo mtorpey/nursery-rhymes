@@ -1,14 +1,30 @@
-SCORES := $(wildcard Scores/*.mscx)
+SCORES := \
+Scores/Come_to_the_Window.mscx \
+Scores/Star_Light,_Star_Bright.mscx \
+Scores/God_Bless_the_Moon.mscx \
+Scores/The_Man_in_the_Moon.mscx \
+Scores/How_Many_Miles_to_Babylon.mscx \
+Scores/Bossy-cow,_Bossy-cow.mscx \
+Scores/Golden_Slumbers.mscx \
+Scores/Rockabye,_Baby.mscx \
+Scores/Wee_Willie_Winkie.mscx \
+Scores/Diddle,_Diddle,_Dumpling.mscx \
+Scores/To_Bed,_to_Bed.mscx \
+Scores/A_Glass_of_Milk.mscx \
+Scores/Little_Jack_Horner.mscx \
+Scores/Pussy-cat,_Pussy-cat.mscx \
+Scores/Six_Little_Mice.mscx
+
 PDFS := $(patsubst Scores/%.mscx, Output/%.pdf, $(SCORES))
 SVGS := $(patsubst Scores/%.mscx, Output/%.svg, $(SCORES))
 MIDS := $(patsubst Scores/%.mscx, Output/%.mid, $(SCORES))
 
 all: website $(PDFS)
 
-website: Output/index.html Output/style.css Output/html-midi-player.js $(SVGS) $(MIDS)
+website: Output/index.html Output/style.css Output/html-midi-player.js | $(SVGS) $(MIDS)
 
-Output/index.html: Resources/template.html $(SCORES) | Output/
-	./generate_webpage $< Scores Output $@
+Output/index.html: Resources/template.html $(SCORES) $(SVGS) $(MIDS)
+	./generate_webpage $< "$(SCORES)" Output $@
 
 Output/style.css: Resources/style.css | Output/
 	cp $< $@
