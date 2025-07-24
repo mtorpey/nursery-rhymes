@@ -10,12 +10,15 @@
   </head>
   <body>
     <h1>Nursery rhymes</h1>
-    <!-- BEGIN:REPEAT -->
+    <!-- BEGIN:HEADER -->
+    <h2 id="{{ID}}">{{TITLE}}</h2>
+    <!-- END:HEADER -->
+    <!-- BEGIN:SCORE -->
     <article id="{{TITLE}}">
       <a href="{{TITLE}}.svg"><img src="{{TITLE}}.svg"/></a>
       <p><midi-player src="{{TITLE}}.mid" sound-font></midi-player> &emsp; <a href="{{SOURCE}}">Source</a></p>
     </article>
-    <!-- END:REPEAT -->
+    <!-- END:SCORE -->
     <footer>
       <p>Source code available on <a href="https://github.com/mtorpey/nursery-rhymes">GitHub</a>.
     </footer>

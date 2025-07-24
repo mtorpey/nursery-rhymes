@@ -1,4 +1,5 @@
-SCORES := \
+LISTED_ITEMS := \
+Bedtime_Rhymes \
 Scores/Come_to_the_Window.mscx \
 Scores/Star_Light,_Star_Bright.mscx \
 Scores/God_Bless_the_Moon.mscx \
@@ -10,10 +11,11 @@ Scores/Rockabye,_Baby.mscx \
 Scores/Wee_Willie_Winkie.mscx \
 Scores/Diddle,_Diddle,_Dumpling.mscx \
 Scores/To_Bed,_to_Bed.mscx \
-Scores/A_Glass_of_Milk.mscx \
-Scores/Little_Jack_Horner.mscx \
-Scores/Pussy-cat,_Pussy-cat.mscx \
-Scores/Six_Little_Mice.mscx
+Scores/A_Glass_of_Milk.mscx
+
+SCORES := $(wildcard Scores/*.mscx)
+UNLISTED_ITEMS := $(filter-out $(LISTED_ITEMS),$(SCORES))
+ITEMS := $(LISTED_ITEMS) Other_Nursery_Rhymes $(UNLISTED_ITEMS)
 
 PDFS := $(patsubst Scores/%.mscx, Output/%.pdf, $(SCORES))
 SVGS := $(patsubst Scores/%.mscx, Output/%.svg, $(SCORES))
@@ -23,8 +25,8 @@ all: website $(PDFS)
 
 website: Output/index.html Output/style.css Output/html-midi-player.js | $(SVGS) $(MIDS)
 
-Output/index.html: Resources/template.html $(SCORES) $(SVGS) $(MIDS)
-	./generate_webpage $< "$(SCORES)" Output $@
+Output/index.html: Resources/template.html generate_webpage $(SCORES) $(SVGS) $(MIDS)
+	./generate_webpage $< "$(ITEMS)" Output $@
 
 Output/style.css: Resources/style.css | Output/
 	cp $< $@
