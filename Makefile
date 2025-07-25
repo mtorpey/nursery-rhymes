@@ -1,4 +1,7 @@
 LISTED_ITEMS := \
+Playtime_Rhymes \
+Scores/Boys_and_Girls,_Come_Out_to_Play.mscx \
+Scores/Georgie_Porgie.mscx \
 Bedtime_Rhymes \
 Scores/Come_to_the_Window.mscx \
 Scores/Star_Light,_Star_Bright.mscx \
