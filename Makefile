@@ -2,6 +2,8 @@ LISTED_ITEMS := \
 Playtime_Rhymes \
 Scores/Boys_and_Girls,_Come_Out_to_Play.mscx \
 Scores/Georgie_Porgie.mscx \
+Scores/Dance_to_Your_Daddy.mscx \
+Scores/I_Love_Little_Pussy.mscx \
 Bedtime_Rhymes \
 Scores/Come_to_the_Window.mscx \
 Scores/Star_Light,_Star_Bright.mscx \
