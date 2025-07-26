@@ -1,10 +1,11 @@
 :root {
-    --bg: light-dark(white, black);
+    --bg: light-dark(beige, #224);
+    --item-bg: light-dark(white, black);
     --fg: light-dark(black, white);
     --border: 1pt solid var(--fg);
     font-family: "FreeSerif", times, serif;
-    background-color: light-dark(beige, #224);
     color: var(--fg);
+    background: var(--bg);
 }
 
 body {
@@ -16,11 +17,28 @@ a {
     color: var(--fg);
 }
 
+details[open] {
+    background-color: var(--bg);
+    max-width: 32em;
+    display: inline-block;
+    background-color: var(--item-bg);
+    border: var(--border);
+}
+
+details p, details ul {
+    text-align: left;
+}
+
+/* Available soon in Firefox
+details[open]::details-content {
+}
+*/
+
 article {
     border: var(--border);
     display: inline-block;
     margin: 5pt;
-    background-color: var(--bg);
+    background-color: var(--item-bg);
     color: var(--fg);
 }
 
@@ -42,7 +60,7 @@ footer {
 /* Custom player style */
 midi-player {
     color: var(--fg);
-    background-color: var(--bg);
+    background-color: var(--item-bg);
     height: 2em;
     margin-top: 0;
     font-family: inherit;
@@ -52,6 +70,6 @@ midi-player {
 
 midi-player::part(control-panel) {
     color: var(--fg);
-    background-color: var(--bg);
+    background-color: var(--item-bg);
     border: none;
 }
