@@ -18,15 +18,13 @@ a {
 }
 
 details[open] {
-    background-color: var(--bg);
     max-width: 32em;
-    display: inline-block;
-    background-color: var(--item-bg);
-    border: var(--border);
+    padding: 5pt;
+    border-radius: 10pt;
 }
 
 details p, details ul {
-    text-align: left;
+    text-align: justify;
 }
 
 /* Available soon in Firefox
@@ -34,12 +32,11 @@ details[open]::details-content {
 }
 */
 
-article {
+article, details[open] {
     border: var(--border);
     display: inline-block;
     margin: 5pt;
     background-color: var(--item-bg);
-    color: var(--fg);
 }
 
 article img {
