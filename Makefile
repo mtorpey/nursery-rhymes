@@ -26,7 +26,13 @@ PDFS := $(patsubst Scores/%.mscx, Output/%.pdf, $(SCORES))
 SVGS := $(patsubst Scores/%.mscx, Output/%.svg, $(SCORES))
 MIDS := $(patsubst Scores/%.mscx, Output/%.mid, $(SCORES))
 
-all: website $(PDFS)
+all: website $(PDFS) Output/nursery-rhymes-book.pdf Output/nursery-rhymes.pdf
+
+Output/nursery-rhymes-book.pdf: Output/nursery-rhymes.pdf
+	pdfbook2 --paper=a4paper --short-edge --no-crop $<
+
+Output/nursery-rhymes.pdf: website
+	chromium --headless --print-to-pdf=$@ Output/index.html
 
 website: Output/index.html Output/style.css Output/html-midi-player.js | $(SVGS) $(MIDS)
 
