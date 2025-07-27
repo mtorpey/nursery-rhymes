@@ -28,6 +28,9 @@ MIDS := $(patsubst Scores/%.mscx, Output/%.mid, $(SCORES))
 
 all: website $(PDFS) Output/nursery-rhymes-book.pdf Output/nursery-rhymes.pdf
 
+deploy: all
+	rsync -r --delete -e ssh Output/ root@myoung.uk:/var/www/html/nursery-rhymes/
+
 Output/nursery-rhymes-book.pdf: Output/nursery-rhymes.pdf
 	pdfbook2 --paper=a4paper --short-edge --no-crop $<
 
