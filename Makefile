@@ -31,8 +31,8 @@ all: website $(PDFS) Output/nursery-rhymes-book.pdf Output/nursery-rhymes.pdf
 Output/nursery-rhymes-book.pdf: Output/nursery-rhymes.pdf
 	pdfbook2 --paper=a4paper --short-edge --no-crop $<
 
-Output/nursery-rhymes.pdf: website
-	chromium --headless --print-to-pdf=$@ Output/index.html
+Output/nursery-rhymes.pdf: Output/index.html Output/style.css $(SVGS)
+	chromium --headless --print-to-pdf=$@ $<
 
 website: Output/index.html Output/style.css Output/html-midi-player.js | $(SVGS) $(MIDS)
 
