@@ -1,10 +1,13 @@
 LISTED_ITEMS := \
-Playtime_Rhymes \
+My_Book_of_Playtime_Rhymes \
 Scores/Boys_and_Girls,_Come_Out_to_Play.mscx \
 Scores/Georgie_Porgie.mscx \
 Scores/Dance_to_Your_Daddy.mscx \
 Scores/I_Love_Little_Pussy.mscx \
-Bedtime_Rhymes \
+Scores/Rain,_Rain,_Go_Away.mscx \
+Scores/Gypsies_in_the_Wood.mscx \
+Scores/Ride_a_Cock_Horse.mscx \
+My_Book_of_Bedtime_Rhymes \
 Scores/Come_to_the_Window.mscx \
 Scores/Star_Light,_Star_Bright.mscx \
 Scores/God_Bless_the_Moon.mscx \
