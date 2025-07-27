@@ -86,12 +86,16 @@ midi-player::part(control-panel) {
         size: a5 portrait;
         margin: 0;
     }
+    body {
+        color: black;
+        background-color: white;
+    }
     details, article p, midi-player, footer {
         display: none;
     }
     article, article a, article img {
         margin: 0;
-        width: 100%;
+        width: 147mm; /*148.5mm;*/
         border: none;
     }
     h1, h2 {
