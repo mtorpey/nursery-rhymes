@@ -86,7 +86,7 @@ midi-player::part(control-panel) {
         size: a5 portrait;
         margin: 0;
     }
-    body {
+    :root {
         color: black;
         background-color: white;
     }
