@@ -13,6 +13,16 @@ body {
     text-align: center;
 }
 
+h1 {
+    font-size: xxx-large;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: xx-large;
+    font-weight: normal;
+}
+
 a {
     color: var(--fg);
 }
@@ -69,4 +79,26 @@ midi-player::part(control-panel) {
     color: var(--fg);
     background-color: var(--item-bg);
     border: none;
+}
+
+@media print {
+    @page {
+        size: a5 portrait;
+        margin: 0;
+    }
+    details, article p, midi-player, footer {
+        display: none;
+    }
+    article, article a, article img {
+        margin: 0;
+        width: 100%;
+        border: none;
+    }
+    h1, h2 {
+        break-after: page;
+        padding-top: 8cm;
+    }
+    article {
+        break-after: page;
+    }
 }
