@@ -448,6 +448,7 @@
             </Note>
           </Chord>
         <Chord>
+          <dots>1</dots>
           <durationType>quarter</durationType>
           <Lyrics>
             <text>toes,</text>
@@ -457,9 +458,6 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         </Measure>
       <Measure number="7">
         <Chord>
