@@ -34,7 +34,7 @@
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composer"></metaTag>
-    <metaTag name="copyright">The Baby's Opera (Crane, 1900)</metaTag>
+    <metaTag name="copyright">The Baby’s Opera (Crane, 1900)</metaTag>
     <metaTag name="creationDate">2025-07-28</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
@@ -44,7 +44,7 @@
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Tom, Tom the Piper's Son (Learned to Play)</metaTag>
+    <metaTag name="workTitle">Tom, Tom the Piper’s Son (Learned to Play)</metaTag>
     <PageList>
       <Page>
         <System>
@@ -115,7 +115,7 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Tom, Tom, the Piper's Son</text>
+          <text>Tom, Tom, the Piper’s Son</text>
           </Text>
         <Text>
           <style>Subtitle</style>
@@ -274,7 +274,7 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>per's</text>
+            <text>per’s</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -362,7 +362,7 @@
             <no>1</no>
             <ticks>240</ticks>
             <style>Lyrics Even Lines</style>
-            <text>pleas'd</text>
+            <text>pleas’d</text>
             </Lyrics>
           <Slur type="start" id="7"/>
           <Note>
