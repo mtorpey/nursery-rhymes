@@ -38,6 +38,7 @@ Well known
 
 7. Dance to Your Daddy
 Roud 2439
+✓
 
 8. Ride, Baby, Ride
 Roud 21159
@@ -45,7 +46,7 @@ Roud 21159
 
 9. I Love Little Pussy
 Roud 12824
-Broadside Band
+✓
 
 10. Polly, Put the Kettle On
 Roud 7899
@@ -53,14 +54,16 @@ Well known
 
 11. Rain, Rain, Go Away
 Roud 19096
+✓
 
 12. One, Two, Buckle My Shoe
 Roud 11284
+Spoken
+✓
 
 13. My Mother Said That I Never Should
 Roud 13187
-https://ks15.imslp.org/files/imglnks/usimg/f/f0/IMSLP284859-SIBLEY1802.13812.13ca-39087012500759isle.pdf
-Gillington, Old Isle of Wight Singing Games (1909) pp.12-13
+✓
 
 14. I Had a Little Castle Upon the Sand
 Roud 19970
@@ -69,7 +72,7 @@ Spoken
 
 15. Ride a Cock-horse to Banbury Cross
 Roud 19639/21143
-https://www.letsplaykidsmusic.com/ride-a-cock-horse-knee-bobbing-songs/ride-a-cock-horse-2/
+✓
 
 16. Smiling Girls, Rosy Boys
 Roud 32144

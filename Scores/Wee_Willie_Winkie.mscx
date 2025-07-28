@@ -364,7 +364,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>lin'</text>
+            <text>lin’</text>
             </Lyrics>
           <Note>
             <pitch>76</pitch>
@@ -554,7 +554,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Note>
             <pitch>76</pitch>
@@ -587,7 +587,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>o'</text>
+            <text>o’</text>
             </Lyrics>
           <Note>
             <pitch>76</pitch>

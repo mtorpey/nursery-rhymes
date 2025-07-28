@@ -34,7 +34,7 @@
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composer"></metaTag>
-    <metaTag name="copyright">Mrs Charles Moulton's Songs (1871)</metaTag>
+    <metaTag name="copyright">Mrs Charles Moulton’s Songs (1871)</metaTag>
     <metaTag name="creationDate">2025-07-21</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
@@ -232,7 +232,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>Let's</text>
+            <text>Let’s</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>
@@ -322,7 +322,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>Let's</text>
+            <text>Let’s</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -509,7 +509,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>Let's</text>
+            <text>Let’s</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>
@@ -599,7 +599,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>let's</text>
+            <text>let’s</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>

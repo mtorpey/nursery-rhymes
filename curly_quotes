@@ -1,0 +1,2 @@
+#!/bin/bash
+sed -i "s/'/’/g" Scores/*.mscx Scores/Apocrypha/*.mscx Resources/template.html

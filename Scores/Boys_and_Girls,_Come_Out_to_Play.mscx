@@ -10,6 +10,7 @@
     <Division>480</Division>
     <Style>
       <lastSystemFillLimit>0</lastSystemFillLimit>
+      <createMultiMeasureRests>1</createMultiMeasureRests>
       <page-layout>
         <page-height>1190.55</page-height>
         <page-width>839.055</page-width>
@@ -181,7 +182,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>supper</text>
+            <text>supper,</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -225,7 +226,7 @@
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>I'll</text>
+            <text>I’ll</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -254,10 +255,11 @@
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>play;</text>
+            <text>play,</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
+            <ticks>480</ticks>
             <style>Lyrics Even Lines</style>
             <text>sleep,</text>
             </Lyrics>
@@ -276,13 +278,8 @@
             <text>The</text>
             </Lyrics>
           <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>and</text>
-            </Lyrics>
-          <Lyrics>
             <no>2</no>
-            <text>and</text>
+            <text>And</text>
             </Lyrics>
           <Note>
             <pitch>62</pitch>
@@ -292,19 +289,18 @@
         </Measure>
       <Measure number="3">
         <Chord>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Lyrics>
-            <ticks>240</ticks>
             <text>moon</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>come</text>
+            <text>Come to</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
-            <text>we'll</text>
+            <text>we’ll have </text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -314,23 +310,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <no>1</no>
-            <style>Lyrics Even Lines</style>
-            <text>to</text>
-            </Lyrics>
-          <Lyrics>
-            <no>2</no>
-            <text>have</text>
-            </Lyrics>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>doth</text>
+            <text>does</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -422,7 +402,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>down</text>
+            <text>in</text>
             </Lyrics>
           <Lyrics>
             <no>2</no>
@@ -523,6 +503,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
+            <ticks>480</ticks>
             <text>whoop,</text>
             </Lyrics>
           <Lyrics>
@@ -537,9 +518,6 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <text>and</text>
-            </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
@@ -596,6 +574,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
+            <ticks>480</ticks>
             <text>call,</text>
             </Lyrics>
           <Lyrics>
@@ -610,9 +589,6 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <text>and</text>
-            </Lyrics>
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>

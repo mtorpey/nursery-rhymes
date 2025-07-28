@@ -34,7 +34,7 @@
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composer"></metaTag>
-    <metaTag name="copyright">Beth's Notes (Beth Thompson, 2016)</metaTag>
+    <metaTag name="copyright">Beth’s Notes (Beth Thompson, 2016)</metaTag>
     <metaTag name="creationDate">2025-07-23</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
@@ -341,7 +341,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I'm</text>
+            <text>I’m</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>
@@ -389,7 +389,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <ticks>240</ticks>
-            <text>it's</text>
+            <text>it’s</text>
             </Lyrics>
           <Note>
             <Accidental>
