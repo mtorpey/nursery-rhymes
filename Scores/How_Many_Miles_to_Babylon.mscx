@@ -207,7 +207,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>ney's</text>
+            <text>ney’s</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -579,7 +579,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>There's</text>
+            <text>There’s</text>
             </Lyrics>
           <Note>
             <pitch>76</pitch>
@@ -614,7 +614,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>there's</text>
+            <text>there’s</text>
             </Lyrics>
           <Note>
             <pitch>73</pitch>

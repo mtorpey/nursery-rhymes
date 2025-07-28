@@ -151,7 +151,7 @@
           <Lyrics>
             <no>1</no>
             <style>Lyrics Even Lines</style>
-            <text>I'll</text>
+            <text>I’ll</text>
             </Lyrics>
           <Note>
             <pitch>70</pitch>
@@ -397,7 +397,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>don't</text>
+            <text>don’t</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>
@@ -445,7 +445,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>she'll</text>
+            <text>she’ll</text>
             </Lyrics>
           <Lyrics>
             <no>1</no>

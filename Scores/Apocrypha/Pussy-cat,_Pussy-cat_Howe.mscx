@@ -237,7 +237,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>I've</text>
+            <text>I’ve</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -502,7 +502,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>ten'd</text>
+            <text>ten’d</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
