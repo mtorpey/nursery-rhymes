@@ -1,5 +1,8 @@
 LISTED_ITEMS := \
-My_Book_of_Playtime_Rhymes \
+Animal_Rhymes \
+Scores/Pussy-cat,_Pussy-cat.mscx \
+Scores/Six_Little_Mice.mscx \
+Playtime_Rhymes \
 Scores/Boys_and_Girls,_Come_Out_to_Play.mscx \
 Scores/Georgie_Porgie.mscx \
 Scores/Dance_to_Your_Daddy.mscx \
@@ -8,7 +11,7 @@ Scores/Rain,_Rain,_Go_Away.mscx \
 Scores/Gypsies_in_the_Wood.mscx \
 Scores/Ride_a_Cock_Horse.mscx \
 Scores/Tom,_Tom,_the_Pipers_Son_Learned_to_Play.mscx \
-My_Book_of_Bedtime_Rhymes \
+Bedtime_Rhymes \
 Scores/Come_to_the_Window.mscx \
 Scores/Star_Light,_Star_Bright.mscx \
 Scores/God_Bless_the_Moon.mscx \
