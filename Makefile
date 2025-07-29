@@ -2,6 +2,7 @@ LISTED_ITEMS := \
 Animal_Rhymes \
 Scores/Pussy-cat,_Pussy-cat.mscx \
 Scores/Six_Little_Mice.mscx \
+Scores/A_Cat_Came_Fiddling.mscx \
 Playtime_Rhymes \
 Scores/Boys_and_Girls,_Come_Out_to_Play.mscx \
 Scores/Georgie_Porgie.mscx \
