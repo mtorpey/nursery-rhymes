@@ -7,6 +7,7 @@ Scores/I_Love_Little_Pussy.mscx \
 Scores/Rain,_Rain,_Go_Away.mscx \
 Scores/Gypsies_in_the_Wood.mscx \
 Scores/Ride_a_Cock_Horse.mscx \
+Scores/Tom,_Tom,_the_Pipers_Son_Learned_to_Play.mscx \
 My_Book_of_Bedtime_Rhymes \
 Scores/Come_to_the_Window.mscx \
 Scores/Star_Light,_Star_Bright.mscx \
