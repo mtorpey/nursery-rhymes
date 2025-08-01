@@ -1,8 +1,13 @@
 LISTED_ITEMS := \
 Animal_Rhymes \
+Scores/Hickety,_Pickety,_My_Black_Hen.mscx \
+Scores/Cackle,_Cackle,_Mother_Goose.mscx \
 Scores/Pussy-cat,_Pussy-cat.mscx \
 Scores/Six_Little_Mice.mscx \
 Scores/A_Cat_Came_Fiddling.mscx \
+Scores/Three_Young_Rats.mscx \
+Scores/There_Was_an_Owl.mscx \
+Scores/Higglety,_Pigglety,_Pop.mscx \
 Playtime_Rhymes \
 Scores/Boys_and_Girls,_Come_Out_to_Play.mscx \
 Scores/Georgie_Porgie.mscx \

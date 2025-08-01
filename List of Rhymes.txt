@@ -29,12 +29,11 @@ Well known
 
 5. Hickety, Pickety, My Black Hen
 Roud 13043
-https://open.spotify.com/track/4fMNhSAkCE6A5iSk0TniGS
+✓
 
 6. Cackle, Cackle, Mother Goose
 Roud 19732
-Beth’s Notes (Beth Thompson)
-https://web.archive.org/web/20250622115236/https://www.bethsnotesplus.com/2016/10/cackle-cackle-mother-goose.html
+✓
 
 7. Pussy Cat, Pussy Cat
 Roud 15094
@@ -62,7 +61,8 @@ Roud 19786
 
 13. Three Young Rats
 Roud 19748
-https://web.archive.org/web/20250731191938/https://www.singinggamesforchildren.com/A%20Cluster%202.2%20Awaywego/15%20Nursery%20number%20favourites%20to%203%20T-Z.htm
+✓
+Possibly from "Ten Galloping Horses: Action Songs and Number Rhymes"
 
 14. To Market, to Market
 Roud 19708
@@ -73,9 +73,9 @@ Spoken
 Spoken
 ✓
 
-16. There was an Owl Lived in an Oak
+16. There was an Owl
 Roud —
-https://web.archive.org/web/20250731192704/https://www.singinggamesforchildren.com/A%20Cluster%202.2%20Awaywego/22%20Autumn%20songs%20T-Z%20w.htm
+✓
 
 17. Croak! said the Toad
 Roud 19670
@@ -88,7 +88,7 @@ https://open.spotify.com/track/5hZaZZEjJfmSo1wz0f9Y06
 
 19. Higglety, Pigglety, Pop!
 Roud 20590
-https://makingmusicfun.net/htm/music_academy/higglety-piggelty-pop-piano-lesson
+✓
 
 20. This Little Mousey Peeped Within
 Roud —
