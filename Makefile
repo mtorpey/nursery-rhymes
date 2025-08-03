@@ -1,4 +1,8 @@
 LISTED_ITEMS := \
+Nursery_Rhymes \
+Scores/Mary_Had_a_Little_Lamb.mscx \
+Scores/I_Saw_a_Ship_A-Sailing.mscx \
+Scores/Little_Jack_Horner.mscx \
 Animal_Rhymes \
 Scores/Hickety,_Pickety,_My_Black_Hen.mscx \
 Scores/Cackle,_Cackle,_Mother_Goose.mscx \
@@ -34,7 +38,7 @@ Scores/A_Glass_of_Milk.mscx
 
 SCORES := $(wildcard Scores/*.mscx)
 UNLISTED_ITEMS := $(filter-out $(LISTED_ITEMS),$(SCORES))
-ITEMS := $(LISTED_ITEMS) Other_Nursery_Rhymes $(UNLISTED_ITEMS)
+ITEMS := $(LISTED_ITEMS) Other_Songs $(UNLISTED_ITEMS)
 
 PDFS := $(patsubst Scores/%.mscx, Output/%.pdf, $(SCORES))
 SVGS := $(patsubst Scores/%.mscx, Output/%.svg, $(SCORES))
@@ -78,3 +82,6 @@ Output/:
 
 clean:
 	rm -rf Output/
+
+debug:
+	@echo $(UNLISTED_ITEMS)
