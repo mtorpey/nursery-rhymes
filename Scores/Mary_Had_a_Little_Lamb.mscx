@@ -135,6 +135,11 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Tempo>
+          <tempo>1.33333</tempo>
+          <followText>1</followText>
+          <text>Andante</text>
+          </Tempo>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -502,6 +507,7 @@
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>fermata</subtype>
+            <timeStretch>2</timeStretch>
             </Articulation>
           <Slur type="stop" id="7"/>
           <Note>
@@ -871,16 +877,13 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Slur type="stop" id="11"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>

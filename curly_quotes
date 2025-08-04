@@ -1,2 +1,5 @@
 #!/bin/bash
-sed -i "s/'/’/g" Scores/*.mscx Scores/Apocrypha/*.mscx Resources/template.html
+for score in Scores/*.mscx Scores/Apocrypha/*.mscx Resources/template.html
+do
+    grep "'" $score && sed -i "s/'/’/g"
+done
