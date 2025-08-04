@@ -1,5 +1,7 @@
 LISTED_ITEMS := \
 Nursery_Rhymes \
+Scores/Little_Boy_Blue.mscx \
+Scores/Little_Bo-Peep.mscx \
 Scores/Mary_Had_a_Little_Lamb.mscx \
 Scores/I_Saw_a_Ship_A-Sailing.mscx \
 Scores/Little_Jack_Horner.mscx \

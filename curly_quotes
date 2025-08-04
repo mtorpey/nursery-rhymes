@@ -1,5 +1,5 @@
 #!/bin/bash
 for score in Scores/*.mscx Scores/Apocrypha/*.mscx Resources/template.html
 do
-    grep "'" $score && sed -i "s/'/’/g"
+    grep "'" $score && sed -i "s/'/’/g" $score
 done

@@ -3,9 +3,9 @@ Done;#;Title;Roud No;Status;Notes
 ;;Nursery Rhymes;;;
 ;1;Jack and Jill;10266;Well known;
 ;2;Humpty Dumpty;13026;Well known;
-;3;Little Miss Muffet;20605;;
-;4;Little Boy Blue;19703;;Broadside Band
-;5;Little Bo-Peep;6487;;Broadside Band?
+✓;3;Little Miss Muffet;20605;As Little Jack Horner;Or https://archive.org/details/ouroldnurseryrhy00moff/page/55/mode/1up
+✓;4;Little Boy Blue;19703;Scored;
+✓;5;Little Bo-Peep;6487;Scored;
 ✓;6;Mary Had a Little Lamb;7622;Scored;
 ;7;Old Mother Hubbard;19334;;
 ;8;Jack Sprat;19479;;
@@ -93,3 +93,4 @@ Done;#;Title;Roud No;Status;Notes
 ;;;;;Notes
 ;;;;;https://en.wikisource.org/wiki/The_Child%27s_Own_Music_Book
 ;;;;;https://archive.org/details/75britishnursery00moff/page/n4/mode/1up
+;;;;;https://archive.org/details/ouroldnurseryrhy00moff/page/57/mode/1up
