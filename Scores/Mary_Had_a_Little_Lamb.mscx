@@ -761,12 +761,16 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <Slur id="11">
+          <track>0</track>
+          </Slur>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
             <ticks>120</ticks>
             <text>laugh</text>
             </Lyrics>
+          <Slur type="start" id="11"/>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -774,17 +778,22 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
+          <Slur type="stop" id="11"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <Slur id="12">
+          <track>0</track>
+          </Slur>
         <Chord>
           <durationType>16th</durationType>
           <Lyrics>
             <ticks>120</ticks>
             <text>and</text>
             </Lyrics>
+          <Slur type="start" id="12"/>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -792,6 +801,7 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
+          <Slur type="stop" id="12"/>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -861,7 +871,7 @@
           </Chord>
         </Measure>
       <Measure number="16">
-        <Slur id="11">
+        <Slur id="13">
           <track>0</track>
           </Slur>
         <Chord>
@@ -870,7 +880,7 @@
             <ticks>480</ticks>
             <text>school.</text>
             </Lyrics>
-          <Slur type="start" id="11"/>
+          <Slur type="start" id="13"/>
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
@@ -878,7 +888,7 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
-          <Slur type="stop" id="11"/>
+          <Slur type="stop" id="13"/>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
