@@ -9,6 +9,7 @@ Scores/I_Had_a_Little_Nut_Tree.mscx \
 Scores/Simple_Simon.mscx \
 Scores/Little_Jack_Horner.mscx \
 Scores/Doctor_Foster.mscx \
+Scores/Little_Tommy_Tucker.mscx \
 Animal_Rhymes \
 Scores/Hickety,_Pickety,_My_Black_Hen.mscx \
 Scores/Cackle,_Cackle,_Mother_Goose.mscx \
