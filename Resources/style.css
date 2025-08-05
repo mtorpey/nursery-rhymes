@@ -81,6 +81,12 @@ midi-player::part(control-panel) {
     border: none;
 }
 
+midi-player::part(play-button) {
+    height: 100%;
+    aspect-ratio: 1;
+    color: var(--fg);
+}
+
 @media print {
     @page {
         size: a5 portrait;

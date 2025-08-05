@@ -3,8 +3,12 @@ Nursery_Rhymes \
 Scores/Little_Boy_Blue.mscx \
 Scores/Little_Bo-Peep.mscx \
 Scores/Mary_Had_a_Little_Lamb.mscx \
+Scores/Old_King_Cole.mscx \
 Scores/I_Saw_a_Ship_A-Sailing.mscx \
+Scores/I_Had_a_Little_Nut_Tree.mscx \
+Scores/Simple_Simon.mscx \
 Scores/Little_Jack_Horner.mscx \
+Scores/Doctor_Foster.mscx \
 Animal_Rhymes \
 Scores/Hickety,_Pickety,_My_Black_Hen.mscx \
 Scores/Cackle,_Cackle,_Mother_Goose.mscx \

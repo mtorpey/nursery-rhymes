@@ -7,17 +7,17 @@ Done;#;Title;Roud No;Status;Notes
 ✓;4;Little Boy Blue;19703;Scored;
 ✓;5;Little Bo-Peep;6487;Scored;
 ✓;6;Mary Had a Little Lamb;7622;Scored;
-;7;Old Mother Hubbard;19334;;
-;8;Jack Sprat;19479;;
-;9;Old King Cole;1164;;Wikipedia
+✓;7;Old Mother Hubbard;19334;Spoken;
+✓;8;Jack Sprat;19479;Spoken;
+✓;9;Old King Cole;1164;Scored;
 ✓;10;I Saw a Ship A-Sailing;3742;Scored;
-;11;I Had a Little Nut Tree;3749;;
+✓;11;I Had a Little Nut Tree;3749;Scored;
 ;12;Mary, Mary, Quite Contrary;19626;;
-;13;Simple Simon;19777;;
+✓;13;Simple Simon;19777;Scored;
 ✓;14;Little Jack Horner;13027;Scored;
 ;15;Sing a Song of Sixpence;13191;Well known;
 ;16;There Was an Old Woman;19132;;
-;17;Doctor Foster;19712;;
+✓;17;Doctor Foster;19712;Scored;
 ;18;Rub-a-dub-dub;3101;;
 ;19;Jack Be Nimble;13902;;
 ;20;Hey Diddle Diddle;19478;Well known;
@@ -93,4 +93,4 @@ Done;#;Title;Roud No;Status;Notes
 ;;;;;Notes
 ;;;;;https://en.wikisource.org/wiki/The_Child%27s_Own_Music_Book
 ;;;;;https://archive.org/details/75britishnursery00moff/page/n4/mode/1up
-;;;;;https://archive.org/details/ouroldnurseryrhy00moff/page/57/mode/1up
+;;;;;https://archive.org/details/ouroldnurseryrhy00moff/n8
