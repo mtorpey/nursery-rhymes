@@ -24,6 +24,7 @@ Scores/Higglety,_Pigglety,_Pop.mscx \
 Playtime_Rhymes \
 Scores/Boys_and_Girls,_Come_Out_to_Play.mscx \
 Scores/Georgie_Porgie.mscx \
+Scores/See-saw,_Margery_Daw.mscx \
 Scores/Dance_to_Your_Daddy.mscx \
 Scores/I_Love_Little_Pussy.mscx \
 Scores/Rain,_Rain,_Go_Away.mscx \

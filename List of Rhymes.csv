@@ -12,7 +12,7 @@ Done;#;Title;Roud No;Status;Notes
 ✓;9;Old King Cole;1164;Scored;
 ✓;10;I Saw a Ship A-Sailing;3742;Scored;
 ✓;11;I Had a Little Nut Tree;3749;Scored;
-;12;Mary, Mary, Quite Contrary;19626;;
+✓;12;Mary, Mary, Quite Contrary;19626;Scored;
 ✓;13;Simple Simon;19777;Scored;
 ✓;14;Little Jack Horner;13027;Scored;
 ;15;Sing a Song of Sixpence;13191;Well known;
@@ -44,12 +44,12 @@ Done;#;Title;Roud No;Status;Notes
 ✓;18;Goosey, Goosey, Gander;6488/16225;Scored;
 ✓;19;Higglety, Pigglety, Pop!;20590;Scored;
 ✓;20;This Little Mousey Peeped Within;—;Spoken;
-;21;Incy Wincy Spider;11586;Well known;
+;21;Incy Wincy Spider;11586;;
 ;;;;;
 ;;Playtime Rhymes;;;
 ✓;1;Boys and Girls, Come Out to Play;5452;Scored;
 ✓;2;Georgie Porgie;19532;Scored;
-;3;See-saw, Margery Daw;13028;;
+✓;3;See-saw, Margery Daw;13028;Scored;
 ;4;Here We Go Round the Mulberry Bush;7882;Well known;
 ;5;Ring-a-ring o' Roses;7925;Well known;
 ;6;Pat-a-cake;6486;Well known;
@@ -79,7 +79,7 @@ Done;#;Title;Roud No;Status;Notes
 ✓;7;How Many Miles to Babylon?;8148;Scored;Also Gillington, Old Isle of Wight Singing Games (1909) pp.12-13 <https://ks15.imslp.org/files/imglnks/usimg/f/f0/IMSLP284859-SIBLEY1802.13812.13ca-39087012500759isle.pdf>
 ✓;8;Bossy-cow, Bossy-cow;—;Scored;
 ✓;9;Golden Slumbers;V18438;Scored;
-;10;Rock-a-bye, Baby, in the Treetop!;2768;Well known;https://en.wikisource.org/wiki/The_Child%27s_Own_Music_Book/Rock-a-Bye,_Baby
+;10;Rock-a-bye, Baby, in the Treetop!;2768;;https://en.wikisource.org/wiki/The_Child%27s_Own_Music_Book/Rock-a-Bye,_Baby
 ;11;If My Boy Sleeps Quietly (French Cradle Song);—;???;
 ✓;12;Rock-a-bye, Baby, Thy Cradle is Green;19811;Scored;
 ;13;The Mocking Bird;470;Well known;
@@ -91,6 +91,7 @@ Done;#;Title;Roud No;Status;Notes
 ✓;19;And Now, Good Night;—;Spoken;
 ;;;;;
 ;;;;;Notes
+;;;;;https://en.wikisource.org/wiki/The_Baby%27s_Opera_(1900)
 ;;;;;https://en.wikisource.org/wiki/The_Child%27s_Own_Music_Book
 ;;;;;https://archive.org/details/75britishnursery00moff/page/n4/mode/1up
 ;;;;;https://archive.org/details/ouroldnurseryrhy00moff/n8
