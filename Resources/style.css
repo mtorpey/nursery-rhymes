@@ -29,8 +29,7 @@ a {
 
 details[open] {
     max-width: 32em;
-    padding: 5pt;
-    border-radius: 10pt;
+    padding: 10pt;
 }
 
 details p, details ul {
