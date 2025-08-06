@@ -6,6 +6,7 @@ Scores/Mary_Had_a_Little_Lamb.mscx \
 Scores/Old_King_Cole.mscx \
 Scores/I_Saw_a_Ship_A-Sailing.mscx \
 Scores/I_Had_a_Little_Nut_Tree.mscx \
+Scores/Mary,_Mary,_Quite_Contrary.mscx \
 Scores/Simple_Simon.mscx \
 Scores/Little_Jack_Horner.mscx \
 Scores/Doctor_Foster.mscx \
