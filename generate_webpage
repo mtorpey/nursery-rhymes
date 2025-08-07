@@ -20,10 +20,9 @@ for item in $items; do
     then
         fname="${item##*/}"
         title="${fname%.*}"
-        echo "$title"
         source=$(grep '<metaTag name="source">' "$item" | sed -n 's/.*<metaTag name="source">\([^<]*\)<\/metaTag>.*/\1/p')
         source=$(echo "$source" | sed 's/ .*//g') # TODO: support multiple sources
-        echo "$source"
+        echo "$title – $source"
 
         block="$score_block"
         block=${block//\{\{TITLE\}\}/"$title"}
