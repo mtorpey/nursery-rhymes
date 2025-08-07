@@ -21,6 +21,7 @@ Scores/Three_Young_Rats.mscx \
 Scores/There_Was_an_Owl.mscx \
 Scores/Goosey,_Goosey,_Gander.mscx \
 Scores/Higglety,_Pigglety,_Pop.mscx \
+Scores/Incy_Wincy_Spider.mscx \
 Playtime_Rhymes \
 Scores/Boys_and_Girls,_Come_Out_to_Play.mscx \
 Scores/Georgie_Porgie.mscx \
