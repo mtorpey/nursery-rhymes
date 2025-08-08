@@ -115,7 +115,7 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Rockabye, Baby</text>
+          <text>Rock-a-bye, Baby, Thy Cradle is Green</text>
           </Text>
         <Text>
           <style>Subtitle</style>
@@ -186,7 +186,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>your</text>
+            <text>thy</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>
@@ -286,7 +286,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>end</syllabic>
+            <syllabic>middle</syllabic>
             <text>ble</text>
             </Lyrics>
           <Note>
@@ -297,7 +297,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>and,</text>
+            <syllabic>end</syllabic>
+            <text>man,</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -313,7 +314,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>mo</text>
+            <text>Mo</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -342,10 +343,19 @@
             </Note>
           </Chord>
         <Chord>
-          <dots>1</dots>
           <durationType>quarter</durationType>
           <Lyrics>
-            <text>queen.</text>
+            <text>queen;</text>
+            </Lyrics>
+          <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>And</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -358,7 +368,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>Sis</text>
+            <text>Bet</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -369,7 +379,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>ter’s</text>
+            <text>ty's</text>
             </Lyrics>
           <Note>
             <pitch>72</pitch>
@@ -411,7 +421,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>she</text>
+            <text>and</text>
             </Lyrics>
           <Note>
             <pitch>67</pitch>
@@ -451,10 +461,19 @@
             </Note>
           </Chord>
         <Chord>
-          <dots>1</dots>
           <durationType>quarter</durationType>
           <Lyrics>
             <text>ring;</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>And</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -467,7 +486,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>Bro</text>
+            <text>John</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -478,7 +497,7 @@
           <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>ther’s</text>
+            <text>ny's</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>
@@ -520,7 +539,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>he</text>
+            <text>and</text>
             </Lyrics>
           <Note>
             <pitch>65</pitch>

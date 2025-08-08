@@ -40,7 +40,8 @@ Scores/The_Man_in_the_Moon.mscx \
 Scores/How_Many_Miles_to_Babylon.mscx \
 Scores/Bossy-cow,_Bossy-cow.mscx \
 Scores/Golden_Slumbers.mscx \
-Scores/Rockabye,_Baby.mscx \
+Scores/Rock-a-bye,_Baby,_in_the_Treetop.mscx \
+Scores/Rock-a-bye,_Baby,_Thy_Cradle_is_Green.mscx \
 Scores/Wee_Willie_Winkie.mscx \
 Scores/Diddle,_Diddle,_Dumpling.mscx \
 Scores/To_Bed,_to_Bed.mscx \
