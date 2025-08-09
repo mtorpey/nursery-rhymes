@@ -136,7 +136,7 @@
         </VBox>
       <Measure number="1">
         <KeySig>
-          <accidental>-3</accidental>
+          <accidental>-1</accidental>
           </KeySig>
         <TimeSig>
           <sigN>3</sigN>
@@ -153,8 +153,8 @@
             <text>Come</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -163,8 +163,8 @@
             <text>to</text>
             </Lyrics>
           <Note>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -173,8 +173,8 @@
             <text>the</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -186,8 +186,8 @@
             <text>win</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -198,8 +198,8 @@
             <text>dow,</text>
             </Lyrics>
           <Note>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -208,8 +208,8 @@
             <text>my</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -221,8 +221,8 @@
             <text>ba</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -232,8 +232,8 @@
             <text>by,</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -242,8 +242,8 @@
             <text>with</text>
             </Lyrics>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -254,8 +254,8 @@
             <text>me,</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -264,8 +264,8 @@
             <text>And</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -287,8 +287,8 @@
             <text>look</text>
             </Lyrics>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -297,8 +297,8 @@
             <text>at</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -307,8 +307,8 @@
             <text>the</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -324,16 +324,16 @@
             </Lyrics>
           <Slur type="start" id="3"/>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
           <Slur type="stop" id="3"/>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -342,8 +342,8 @@
             <text>that</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -354,8 +354,8 @@
             <text>shine</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -364,8 +364,8 @@
             <text>on</text>
             </Lyrics>
           <Note>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -374,8 +374,8 @@
             <text>the</text>
             </Lyrics>
           <Note>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -386,8 +386,8 @@
             <text>sea;</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -396,8 +396,8 @@
             <text>There</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -406,8 +406,8 @@
             <text>are</text>
             </Lyrics>
           <Note>
-            <pitch>68</pitch>
-            <tpc>10</tpc>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -423,8 +423,8 @@
             <text>two</text>
             </Lyrics>
           <Note>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -434,8 +434,8 @@
             <text>lit</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -445,8 +445,8 @@
             <text>tle</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -462,16 +462,16 @@
             </Lyrics>
           <Slur type="start" id="4"/>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
           <Slur type="stop" id="4"/>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -480,8 +480,8 @@
             <text>that</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -492,8 +492,8 @@
             <text>play</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Slur id="5">
@@ -507,16 +507,16 @@
             </Lyrics>
           <Slur type="start" id="5"/>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Slur type="stop" id="5"/>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -526,8 +526,8 @@
             <text>Bo</text>
             </Lyrics>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -539,8 +539,8 @@
             <text>Peep,</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -550,15 +550,15 @@
             <text>And</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>68</pitch>
-            <tpc>10</tpc>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -569,8 +569,8 @@
             <text>two</text>
             </Lyrics>
           <Note>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -580,8 +580,8 @@
             <text>lit</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -591,8 +591,8 @@
             <text>tle</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -603,8 +603,8 @@
             <text>fish</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -613,8 +613,8 @@
             <text>that</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -623,8 +623,8 @@
             <text>lie</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -635,8 +635,8 @@
             <text>down</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Slur id="6">
@@ -650,16 +650,16 @@
             </Lyrics>
           <Slur type="start" id="6"/>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Slur type="stop" id="6"/>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -668,8 +668,8 @@
             <text>the</text>
             </Lyrics>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -679,7 +679,7 @@
           <Segment>
             <subtype>0</subtype>
             <off2 x="0" y="0"/>
-            <pos x="59.404" y="-1.86289"/>
+            <pos x="58.904" y="-1.86289"/>
             </Segment>
           <beginText>
             <text>dim.</text>
@@ -694,8 +694,8 @@
             <text>deep;</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -704,8 +704,8 @@
             <text>And</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -721,8 +721,8 @@
             <text>two</text>
             </Lyrics>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Slur id="8">
@@ -736,16 +736,16 @@
             </Lyrics>
           <Slur type="start" id="8"/>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Slur type="stop" id="8"/>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -755,8 +755,8 @@
             <text>tle</text>
             </Lyrics>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -773,16 +773,16 @@
             </Lyrics>
           <Slur type="start" id="9"/>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
           <Slur type="stop" id="9"/>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -791,8 +791,8 @@
             <text>cry</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -808,16 +808,16 @@
             </Lyrics>
           <Slur type="start" id="10"/>
           <Note>
-            <pitch>56</pitch>
-            <tpc>10</tpc>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
           <Slur type="stop" id="10"/>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -826,8 +826,8 @@
             <text>neap</text>
             </Lyrics>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -838,8 +838,8 @@
             <text>neap!</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Dynamic>
@@ -852,8 +852,8 @@
             <text>I</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -864,8 +864,8 @@
             <text>see</text>
             </Lyrics>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -874,8 +874,8 @@
             <text>a</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -884,8 +884,8 @@
             <text>dear</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -897,8 +897,8 @@
             <text>ba</text>
             </Lyrics>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -908,8 +908,8 @@
             <text>by</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -918,8 +918,8 @@
             <text>that</text>
             </Lyrics>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -930,8 +930,8 @@
             <text>should</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -940,8 +940,8 @@
             <text>be</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -951,8 +951,8 @@
             <text>a</text>
             </Lyrics>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -965,8 +965,8 @@
             <text>sleep.</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <BarLine>

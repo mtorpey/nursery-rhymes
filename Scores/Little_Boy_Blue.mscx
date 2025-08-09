@@ -14,7 +14,7 @@
         <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
-        <yoffset>7</yoffset>
+        <yoffset>7.5</yoffset>
         <offsetType>spatium</offsetType>
         <name>Lyrics Odd Lines</name>
         <family>FreeSerif</family>
@@ -136,9 +136,6 @@
           </Text>
         </VBox>
       <Measure number="1">
-        <KeySig>
-          <accidental>2</accidental>
-          </KeySig>
         <TimeSig>
           <sigN>6</sigN>
           <sigD>8</sigD>
@@ -156,8 +153,8 @@
             <text>Lit</text>
             </Lyrics>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -167,8 +164,8 @@
             <text>tle</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -177,8 +174,8 @@
             <text>Boy</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -187,8 +184,8 @@
             <text>Blue,</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -197,8 +194,8 @@
             <text>come</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -214,16 +211,16 @@
             </Lyrics>
           <Slur type="start" id="2"/>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Slur type="stop" id="2"/>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -232,8 +229,8 @@
             <text>your</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -242,8 +239,8 @@
             <text>horn,</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -252,8 +249,8 @@
             <text>The</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -264,6 +261,16 @@
             <text>sheep’s</text>
             </Lyrics>
           <Note>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>in</text>
+            </Lyrics>
+          <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
             </Note>
@@ -271,7 +278,29 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>in</text>
+            <text>the</text>
+            </Lyrics>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>mea</text>
+            </Lyrics>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>dow,</text>
             </Lyrics>
           <Note>
             <pitch>64</pitch>
@@ -284,40 +313,8 @@
             <text>the</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>mea</text>
-            </Lyrics>
-          <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>dow,</text>
-            </Lyrics>
-          <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>the</text>
-            </Lyrics>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -328,8 +325,8 @@
             <text>cow’s</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -338,8 +335,8 @@
             <text>in</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -348,8 +345,8 @@
             <text>the</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -358,8 +355,8 @@
             <text>corn.</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Rest>
@@ -373,8 +370,8 @@
             <text>Where</text>
             </Lyrics>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -383,8 +380,8 @@
             <text>is</text>
             </Lyrics>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -393,8 +390,8 @@
             <text>the</text>
             </Lyrics>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -404,8 +401,8 @@
             <text>boy</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -414,8 +411,8 @@
             <text>who</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -424,8 +421,8 @@
             <text>looks</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <tick>5760</tick>
@@ -434,8 +431,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -443,8 +440,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -452,8 +449,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -462,8 +459,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -471,8 +468,8 @@
           <durationType>16th</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -480,8 +477,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -493,8 +490,8 @@
             <text>af</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -504,8 +501,8 @@
             <text>ter</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -514,8 +511,8 @@
             <text>the</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -524,8 +521,8 @@
             <text>sheep?</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -534,8 +531,8 @@
             <text>He’s</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <tick>7200</tick>
@@ -544,8 +541,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -553,8 +550,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -562,8 +559,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -571,8 +568,8 @@
           <durationType>quarter</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Rest>
@@ -588,8 +585,8 @@
             <text>un</text>
             </Lyrics>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -599,8 +596,8 @@
             <text>der</text>
             </Lyrics>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -609,8 +606,8 @@
             <text>a</text>
             </Lyrics>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -620,8 +617,8 @@
             <text>hay</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -631,8 +628,8 @@
             <text>stack,</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <tick>8640</tick>
@@ -641,8 +638,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -650,8 +647,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -659,8 +656,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -668,8 +665,8 @@
           <durationType>quarter</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -677,8 +674,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -689,8 +686,8 @@
             <text>fast</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -700,8 +697,8 @@
             <text>a</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -712,8 +709,8 @@
             <text>sleep.</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <tick>10080</tick>
@@ -722,8 +719,8 @@
           <durationType>quarter</durationType>
           <Note>
             <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -731,8 +728,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -741,8 +738,8 @@
           <durationType>quarter</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -758,16 +755,16 @@
             </Lyrics>
           <Slur type="start" id="3"/>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Slur type="stop" id="3"/>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -776,8 +773,8 @@
             <text>you</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -786,8 +783,8 @@
             <text>wake</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -796,8 +793,8 @@
             <text>him?</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -813,16 +810,16 @@
             </Lyrics>
           <Slur type="start" id="4"/>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Slur type="stop" id="4"/>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -831,8 +828,8 @@
             <text>not</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -841,8 +838,8 @@
             <text>I,</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -851,8 +848,8 @@
             <text>For</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -863,8 +860,8 @@
             <text>if</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -873,8 +870,8 @@
             <text>I</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -883,8 +880,8 @@
             <text>do,</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -893,8 +890,8 @@
             <text>he’s</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <tick>14400</tick>
@@ -903,8 +900,8 @@
           <durationType>quarter</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -912,8 +909,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -921,8 +918,8 @@
           <durationType>quarter</durationType>
           <Note>
             <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -930,8 +927,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -947,16 +944,16 @@
             </Lyrics>
           <Slur type="start" id="5"/>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Slur type="stop" id="5"/>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -965,8 +962,8 @@
             <text>to</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -976,8 +973,8 @@
             <text>cry.</text>
             </Lyrics>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <BarLine>
@@ -994,8 +991,8 @@
           <Slur type="start" id="6"/>
           <Note>
             <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1004,8 +1001,8 @@
           <Slur type="stop" id="6"/>
           <Note>
             <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1013,8 +1010,8 @@
           <durationType>eighth</durationType>
           <Note>
             <track>1</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1023,8 +1020,8 @@
           <durationType>quarter</durationType>
           <Note>
             <track>1</track>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         </Measure>

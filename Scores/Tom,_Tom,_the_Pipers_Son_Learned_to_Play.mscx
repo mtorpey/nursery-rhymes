@@ -132,6 +132,11 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Tempo>
+          <tempo>2.5</tempo>
+          <followText>1</followText>
+          <text>Allegro</text>
+          </Tempo>
         <Slur id="2">
           <track>0</track>
           </Slur>

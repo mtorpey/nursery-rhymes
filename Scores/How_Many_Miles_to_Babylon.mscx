@@ -59,8 +59,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       </PageList>
     <Part>
@@ -128,9 +126,6 @@
         </VBox>
       <Measure number="1" len="1/8">
         <irregular/>
-        <KeySig>
-          <accidental>3</accidental>
-          </KeySig>
         <TimeSig>
           <sigN>2</sigN>
           <sigD>4</sigD>
@@ -142,8 +137,8 @@
             <text>How</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -155,8 +150,8 @@
             <text>ma</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -166,8 +161,8 @@
             <text>ny</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -176,8 +171,8 @@
             <text>miles</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -186,8 +181,8 @@
             <text>to</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -199,8 +194,8 @@
             <text>Bar</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -210,8 +205,8 @@
             <text>ney’s</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -220,8 +215,8 @@
             <text>Bridge?</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -232,8 +227,8 @@
             <text>Three</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -242,8 +237,8 @@
             <text>score</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -252,8 +247,8 @@
             <text>and</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -265,8 +260,8 @@
             <text>ten.</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -275,8 +270,8 @@
             <text>Will</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -287,8 +282,8 @@
             <text>I</text>
             </Lyrics>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -297,8 +292,8 @@
             <text>be</text>
             </Lyrics>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -307,8 +302,8 @@
             <text>there</text>
             </Lyrics>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -317,8 +312,8 @@
             <text>by</text>
             </Lyrics>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -330,8 +325,8 @@
             <text>Can</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -341,8 +336,8 @@
             <text>dle</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -352,8 +347,8 @@
             <text>mas?</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -364,14 +359,24 @@
             <text>Yes,</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>and</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>back</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -381,22 +386,12 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>back</text>
-            </Lyrics>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
             <syllabic>begin</syllabic>
             <text>a</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -408,8 +403,8 @@
             <text>gain.</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -421,8 +416,8 @@
             <text>O</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -432,8 +427,8 @@
             <text>pen</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -442,8 +437,8 @@
             <text>your</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -452,8 +447,8 @@
             <text>gates</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -462,8 +457,8 @@
             <text>and</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -474,8 +469,8 @@
             <text>let</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -484,8 +479,8 @@
             <text>us</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -494,8 +489,8 @@
             <text>through.</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -506,8 +501,8 @@
             <text>Not</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -517,8 +512,8 @@
             <text>with</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -528,8 +523,8 @@
             <text>out</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -538,8 +533,8 @@
             <text>a</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -550,8 +545,8 @@
             <text>beck</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -560,8 +555,8 @@
             <text>and</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -570,8 +565,8 @@
             <text>boo.</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -582,8 +577,8 @@
             <text>There’s</text>
             </Lyrics>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -592,8 +587,8 @@
             <text>the</text>
             </Lyrics>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -602,8 +597,8 @@
             <text>beck,</text>
             </Lyrics>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -617,8 +612,8 @@
             <text>there’s</text>
             </Lyrics>
           <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -627,8 +622,8 @@
             <text>the</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -637,8 +632,8 @@
             <text>boo,</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -650,8 +645,8 @@
             <text>O</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -661,14 +656,24 @@
             <text>pen</text>
             </Lyrics>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>your</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>gates</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -678,21 +683,11 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>gates</text>
+            <text>and</text>
             </Lyrics>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>and</text>
-            </Lyrics>
-          <Note>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -703,8 +698,8 @@
             <text>let</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -713,8 +708,8 @@
             <text>us</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -723,8 +718,8 @@
             <text>through.</text>
             </Lyrics>
           <Note>
-            <pitch>81</pitch>
-            <tpc>17</tpc>
+            <pitch>79</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <BarLine>
