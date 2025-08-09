@@ -124,7 +124,7 @@
         </VBox>
       <Measure number="1">
         <KeySig>
-          <accidental>4</accidental>
+          <accidental>-1</accidental>
           </KeySig>
         <TimeSig>
           <sigN>6</sigN>
@@ -138,8 +138,8 @@
             <text>Lit</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -149,14 +149,71 @@
             <text>tle</text>
             </Lyrics>
           <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
             <text>Jack</text>
+            </Lyrics>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>quarter</durationType>
+          <Lyrics>
+            <syllabic>begin</syllabic>
+            <text>Hor</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <syllabic>end</syllabic>
+            <text>ner</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        </Measure>
+      <Measure number="2">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>sat</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>in</text>
+            </Lyrics>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>a</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -167,65 +224,11 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>begin</syllabic>
-            <text>Hor</text>
-            </Lyrics>
-          <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>ner</text>
-            </Lyrics>
-          <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        </Measure>
-      <Measure number="2">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>sat</text>
-            </Lyrics>
-          <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>in</text>
-            </Lyrics>
-          <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>a</text>
-            </Lyrics>
-          <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
             <text>cor</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -235,8 +238,8 @@
             <text>ner</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -248,8 +251,8 @@
             <text>eat</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -259,18 +262,18 @@
             <text>ing</text>
             </Lyrics>
           <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>a</text>
+            <text>his</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -280,8 +283,8 @@
             <text>Christ</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -291,8 +294,8 @@
             <text>mas</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -310,16 +313,16 @@
           <Note>
             <Tie id="2">
               </Tie>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="2"/>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -328,8 +331,8 @@
             <text>He</text>
             </Lyrics>
           <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -340,8 +343,8 @@
             <text>put</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -350,8 +353,8 @@
             <text>in</text>
             </Lyrics>
           <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -360,8 +363,8 @@
             <text>his</text>
             </Lyrics>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -370,8 +373,8 @@
             <text>thumb,</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -380,8 +383,8 @@
             <text>and</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -392,8 +395,8 @@
             <text>pulled</text>
             </Lyrics>
           <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -402,8 +405,8 @@
             <text>out</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -412,8 +415,8 @@
             <text>a</text>
             </Lyrics>
           <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -422,8 +425,8 @@
             <text>plum,</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -432,8 +435,8 @@
             <text>and</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -444,14 +447,24 @@
             <text>said,</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>&quot;what</text>
+            <text>what</text>
+            </Lyrics>
+          <Note>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Lyrics>
+            <text>a</text>
             </Lyrics>
           <Note>
             <pitch>69</pitch>
@@ -461,21 +474,11 @@
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
-            <text>a</text>
-            </Lyrics>
-          <Note>
-            <pitch>68</pitch>
-            <tpc>22</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
             <text>good</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -484,8 +487,8 @@
             <text>boy</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -494,8 +497,8 @@
             <text>am</text>
             </Lyrics>
           <Note>
-            <pitch>63</pitch>
-            <tpc>23</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -505,21 +508,21 @@
           <durationType>quarter</durationType>
           <Lyrics>
             <ticks>720</ticks>
-            <text>I!&quot;</text>
+            <text>I!</text>
             </Lyrics>
           <Note>
             <Tie id="3">
               </Tie>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="3"/>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Rest>
