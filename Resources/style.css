@@ -1,15 +1,12 @@
 :root {
-    --bg: light-dark(beige, #224);
     --item-bg: light-dark(white, black);
     --fg: light-dark(black, white);
-    --border: 1pt solid var(--fg);
-    font-family: "FreeSerif", times, serif;
-    color: var(--fg);
-    background: var(--bg);
+    --border: var(--line);
 }
 
 body {
     margin: auto;
+    max-width: unset;
     text-align: center;
 }
 
@@ -21,10 +18,6 @@ h1 {
 h2 {
     font-size: xx-large;
     font-weight: normal;
-}
-
-a {
-    color: var(--fg);
 }
 
 details[open] {
@@ -42,6 +35,8 @@ details[open]::details-content {
 */
 
 article, details[open] {
+    font-family: "FreeSerif", times, serif;
+    color: var(--fg);
     border: var(--border);
     display: inline-block;
     margin: 5pt;
