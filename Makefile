@@ -61,7 +61,7 @@ deploy: all
 	rsync -r --delete -e ssh Output/ root@myoung.uk:/var/www/html/nursery-rhymes/
 
 Output/nursery-rhymes-book.pdf: Output/nursery-rhymes.pdf
-	pdfbook2 --paper=a4paper --short-edge --no-crop $<
+	pdfbook2 --paper=a4paper --no-crop $<
 
 Output/nursery-rhymes.pdf: Output/index.html Output/style.css $(SVGS)
 	chromium --headless --print-to-pdf=$@ $<
