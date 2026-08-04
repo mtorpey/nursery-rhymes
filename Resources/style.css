@@ -10,19 +10,10 @@ body {
     text-align: center;
 }
 
-h1 {
-    font-size: xxx-large;
-    font-weight: normal;
-}
-
-h2 {
-    font-size: xx-large;
-    font-weight: normal;
-}
-
 details[open] {
     max-width: 32em;
     padding: 10pt;
+    margin: auto;
 }
 
 details p, details ul {
@@ -34,7 +25,8 @@ details[open]::details-content {
 }
 */
 
-article, details[open] {
+article {
+    font-family: "FreeSerif", times, serif;
     color: var(--fg);
     border: var(--border);
     display: inline-block;
