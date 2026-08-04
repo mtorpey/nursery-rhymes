@@ -80,6 +80,13 @@ audio {
         break-after: page;
         padding-top: 8cm;
         color: black;
+        font-weight: normal;
+    }
+    h1 {
+        font-size: xxx-large;
+    }
+    h2 {
+        font-size: xx-large;
     }
     article {
         break-after: page;
