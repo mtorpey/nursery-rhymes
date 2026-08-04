@@ -35,7 +35,6 @@ details[open]::details-content {
 */
 
 article, details[open] {
-    font-family: "FreeSerif", times, serif;
     color: var(--fg);
     border: var(--border);
     display: inline-block;
@@ -51,7 +50,7 @@ article img {
 }
 
 article p {
-    margin-top: 0;
+    font-family: "FreeSerif", times, serif;
 }
 
 footer {
@@ -69,9 +68,13 @@ audio {
         size: a5 portrait;
         margin: 0;
     }
-    :root {
+    * {
         color: black;
         background-color: white;
+        font-family: "FreeSerif", times, serif;
+    }
+    html {
+        border: none;
     }
     nav, details, article p, audio, footer {
         display: none;
@@ -84,6 +87,7 @@ audio {
     h1, h2 {
         break-after: page;
         padding-top: 8cm;
+        color: black;
     }
     article {
         break-after: page;
