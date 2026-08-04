@@ -53,7 +53,7 @@ ITEMS := $(LISTED_ITEMS) Other_Songs $(UNLISTED_ITEMS)
 
 PDFS := $(patsubst Scores/%.mscx, Output/%.pdf, $(SCORES))
 SVGS := $(patsubst Scores/%.mscx, Output/%.svg, $(SCORES))
-MIDS := $(patsubst Scores/%.mscx, Output/%.mid, $(SCORES))
+MP3S := $(patsubst Scores/%.mscx, Output/%.mp3, $(SCORES))
 
 all: website $(PDFS) Output/nursery-rhymes-book.pdf Output/nursery-rhymes.pdf
 
@@ -66,15 +66,12 @@ Output/nursery-rhymes-book.pdf: Output/nursery-rhymes.pdf
 Output/nursery-rhymes.pdf: Output/index.html Output/style.css $(SVGS)
 	chromium --headless --print-to-pdf=$@ $<
 
-website: Output/index.html Output/style.css Output/html-midi-player.js | $(SVGS) $(MIDS)
+website: Output/index.html Output/style.css | $(SVGS) $(MP3S)
 
-Output/index.html: Resources/template.html generate_webpage $(SCORES) $(SVGS) $(MIDS)
+Output/index.html: Resources/template.html generate_webpage $(SCORES) $(SVGS) $(MP3S)
 	./generate_webpage $< "$(ITEMS)" Output $@
 
 Output/style.css: Resources/style.css | Output/
-	cp $< $@
-
-Output/html-midi-player.js: Resources/html-midi-player.js | Output/
 	cp $< $@
 
 Output/%.svg: Scores/%.mscx | Output/
@@ -85,8 +82,8 @@ Output/%.svg: Scores/%.mscx | Output/
 Output/%.pdf: Scores/%.mscx | Output/
 	musescore --export-to $@ $<
 
-Output/%.mid: Scores/%.mscx | Output/
-	musescore --export-to $@ $<
+Output/%.mp3: Scores/%.mscx | Output/
+	musescore --export-to $@ --bitrate 64 $<
 
 Output/:
 	mkdir -p $@

@@ -58,27 +58,10 @@ footer {
     font-style: italic;
 }
 
-/* Custom player style */
-midi-player {
-    color: var(--fg);
-    background-color: var(--item-bg);
-    height: 2em;
-    margin-top: 0;
-    font-family: inherit;
+audio {
     display: block;
-    width: inherit;
-}
-
-midi-player::part(control-panel) {
-    color: var(--fg);
-    background-color: var(--item-bg);
-    border: none;
-}
-
-midi-player::part(play-button) {
-    height: 100%;
-    aspect-ratio: 1;
-    color: var(--fg);
+    margin-inline: auto;
+    max-width: 100%;
 }
 
 @media print {
@@ -90,7 +73,7 @@ midi-player::part(play-button) {
         color: black;
         background-color: white;
     }
-    details, article p, midi-player, footer {
+    nav, details, article p, audio, footer {
         display: none;
     }
     article, article a, article img {

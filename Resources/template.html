@@ -7,7 +7,6 @@
     <meta name="color-scheme" content="dark light">
     <link rel="stylesheet" href="/doodle.css">
     <link rel="stylesheet" href="style.css">
-    <script src="html-midi-player.js"></script>
   </head>
   <body>
     <h1>Nursery rhymes</h1>
@@ -52,7 +51,10 @@
     <!-- BEGIN:SCORE -->
     <article id="{{TITLE}}">
       <img src="{{TITLE}}.svg" alt="Sheet music for the song ‘{{TITLE}}’, including lyrics, following the tune that can be heard in {{TITLE}}.mid">
-      <midi-player src="{{TITLE}}.mid" sound-font></midi-player>
+      <audio controls preload="metadata">
+        <source src="{{TITLE}}.mp3" type="audio/mpeg">
+        <a href="{{TITLE}}.mp3">Listen to mp3</a>
+      </audio>
       <p><a href="{{SOURCE}}">Source</a></p>
     </article>
     <!-- END:SCORE -->
